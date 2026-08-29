@@ -8,4 +8,4 @@ The system should rank possible crops, display expected performance, compare alt
 and provide analytics explaining the factors behind each recommendation.
 ## 🌐 Live Website
 
-[Visit My Website](file:///C:/Users/venka/Documents/Codex/2026-08-26/files-pasted-by-the-user-smart-4/outputs/smart-crop-selector.html)
+[Visit My Website]()
