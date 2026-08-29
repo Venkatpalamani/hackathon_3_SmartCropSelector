@@ -1,5 +1,8 @@
 PROJECT : Smart Crop Selector 
+
 MY ROLE : TEAM LEADER 
+
+Tools used : Codeex, Rocket
 
 FULL DESCRIPTION(prblm statement) :
 Selecting the right crop depends on several factors such as soil, climate, location, historical yield, and market conditions.
